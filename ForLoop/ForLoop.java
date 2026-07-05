@@ -6,7 +6,7 @@ public class ForLoop {
     public static void main(String a[]) throws InterruptedException {
 
         // For Lopp Increment
-        int x;
+        // int x;
 
         // for (x = 0; x <= 10; x++) {
         // System.out.println("This is x value: " + x);
