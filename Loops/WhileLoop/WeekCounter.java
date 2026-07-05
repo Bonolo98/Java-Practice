@@ -4,6 +4,7 @@ public class WeekCounter {
 
     public static void main(String[] args) throws InterruptedException {
         int days = 1;
+        //String[] days = {"Monday", "Tuesday", "Wednesday" , "Thursday", "Friday"};
 
         while (days <= 7) {
             System.out.println("Day " + days);
