@@ -6,7 +6,7 @@ public class WeekCounter {
         // Updated Week Counter with For Loop
         String[] days = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" };
 
-        for (String day : days) {
+        for (String day : days) { // Enhanced For Loop (For Each)
             System.out.println("Day: " + day);
             Thread.sleep(1000);
 
